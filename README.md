@@ -1,5 +1,5 @@
 # Hi there 👋
-Data Scientist / Analyst
+Data Scientist and Software Developer
 
 # Stack:
 ## Languages:
